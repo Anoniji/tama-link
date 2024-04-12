@@ -25,7 +25,6 @@ def sep_sys():
 
 
 class Logger:
-
     """Lib logger manage
     - init list: log_nms, logs_dir, level, save
     - def list: index_file, save_on_file, params, logprt
